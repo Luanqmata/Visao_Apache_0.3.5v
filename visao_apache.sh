@@ -76,6 +76,7 @@ exibir_menu() {
     echo "Digite 6. Para Imprimir ip's Suspeitos (+50 req)."
     echo "Digite 7. Para vizualizar o trafego (Dispositivo/Navegador/SO)."
     echo "Digite 8. Para Verificar Referencias."
+    echo "Digite 9. Para buscar o /etc/passwd."
     echo "Digite 0. Para Sair."
     echo ""
     echo ""
@@ -198,6 +199,19 @@ verificar_referers() {
     clear
 }
 
+buscar_passwd() {
+    echo -e "${RED}"
+    echo ""
+    echo " Buscar informações de usuários no /etc/passwd "
+    echo ""
+
+    awk -F: '{ printf "Usuário: %s\nUID: %s\nGID: %s\nHome: %s\nShell: %s\n\n", $1, $3, $4, $6, $7 }' /etc/passwd
+
+    echo ""
+    read -n 1 -s -r -p "Pressione qualquer tecla para continuar..."
+    clear
+}
+
 main() {
     adicionar_arquivo
 
@@ -219,6 +233,8 @@ main() {
             vizualizador_trafego
 	elif [ "$escolha" -eq 8 ]; then
             verificar_referers
+	elif [ "$escolha" -eq 9 ]; then
+            buscar_passwd
 	elif [ "$escolha" -eq 0 ]; then
 	    echo -e "${RED}"
 	    echo ""
