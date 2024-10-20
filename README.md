@@ -8,6 +8,7 @@
 ### User-Agent Tracking: Extraia e analise informações sobre os agentes de usuário, permitindo compreender melhor o tráfego de visitantes.
 ### Referenciadores: Verifique e categorize os referenciadores que estão direcionando tráfego para o seu site.
 ### Com uma interface interativa, o usuário pode facilmente navegar pelas análises e obter informações valiosas sobre o tráfego e a performance do servidor.
+### Fazer buscas no /etc/passwd
 
 ![image](https://github.com/user-attachments/assets/b7724dac-b403-4332-b1ec-bb79cbfc6903)
 
