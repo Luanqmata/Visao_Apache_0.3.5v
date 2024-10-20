@@ -1,6 +1,6 @@
 # Análise de Logs em Bash
 
-## Este repositório contém um conjunto de scripts em Bash projetados para analisar arquivos de log de servidores web de maneira eficiente e interativa. As principais funcionalidades incluem:
+## Este repositório contém um script em Bash projetado para analisar arquivos de log de servidores (Apache2) web de maneira eficiente e interativa. As principais funcionalidades incluem:
 
 ### Contagem de Linhas: Determine o número total de linhas em arquivos de log, proporcionando insights sobre a quantidade de dados.
 ### Distribuição de Códigos de Status: Analise a frequência dos códigos de status HTTP, permitindo identificar problemas de resposta do servidor.
