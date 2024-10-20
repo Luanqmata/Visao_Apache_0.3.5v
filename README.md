@@ -20,3 +20,9 @@
 # Vizualização do Menu
 
 ![image](https://github.com/user-attachments/assets/374ae1f1-0330-440b-b41f-24afa8333e0f)
+
+![image](https://github.com/user-attachments/assets/aaf0e560-1c3f-4857-b5dc-f44ea9d13ae0)
+
+![image](https://github.com/user-attachments/assets/edff9e7b-bfb6-4593-bdce-ccc1084c6d98)
+
+![image](https://github.com/user-attachments/assets/2ed2a836-3343-4ad8-80e2-44ff51a04aa7)
