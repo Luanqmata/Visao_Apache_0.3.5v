@@ -17,6 +17,7 @@
 
 ![image](https://github.com/user-attachments/assets/71dc1e4f-bf0a-4958-b48a-8acc5f6f19b6)
 
+## (Ex: access.log)
 # Vizualização do Menu
 
 ![image](https://github.com/user-attachments/assets/374ae1f1-0330-440b-b41f-24afa8333e0f)
