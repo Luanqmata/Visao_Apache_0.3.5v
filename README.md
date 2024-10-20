@@ -16,17 +16,17 @@
 
 ## muito simples basta colocar o arquivo que vc deseja analisar dentro da mesma pasta que o script , e inciar o script , depois dentro do programa digitar o nome do arquivo log.log
 
-![image](https://github.com/user-attachments/assets/71dc1e4f-bf0a-4958-b48a-8acc5f6f19b6)
+![image](https://github.com/user-attachments/assets/92ada7ce-5bc2-42b2-aa66-18496ff8deb1)
 
 ## (Ex: access.log)
 # Vizualização do Menu
 
 ![image](https://github.com/user-attachments/assets/6e0d8f80-51dd-4cdc-ac90-49f584553d14)
-## opção 1
+
 ![image](https://github.com/user-attachments/assets/aaf0e560-1c3f-4857-b5dc-f44ea9d13ae0)
-## opção 2
+
 ![image](https://github.com/user-attachments/assets/edff9e7b-bfb6-4593-bdce-ccc1084c6d98)
-## Opção 7
-![image](https://github.com/user-attachments/assets/2ed2a836-3343-4ad8-80e2-44ff51a04aa7)
-## Opção 9
+
 ![image](https://github.com/user-attachments/assets/8bfd76fa-5763-4dbb-a34b-1e895440f377)
+
+![image](https://github.com/user-attachments/assets/f66647c0-9443-47d1-8403-828b7f737c87)
