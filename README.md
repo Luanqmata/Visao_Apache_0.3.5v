@@ -2,13 +2,9 @@
 
 ## Este repositório contém um script em Bash projetado para analisar arquivos de log de servidores (Apache2) web de maneira eficiente e interativa. As principais funcionalidades incluem:
 
-### Contagem de Linhas: Determine o número total de linhas em arquivos de log, proporcionando insights sobre a quantidade de dados.
-### Distribuição de Códigos de Status: Analise a frequência dos códigos de status HTTP, permitindo identificar problemas de resposta do servidor.
-### Monitoramento de IPs: Identifique endereços IP com muitas requisições, ajudando a detectar comportamentos suspeitos.
-### User-Agent Tracking: Extraia e analise informações sobre os agentes de usuário, permitindo compreender melhor o tráfego de visitantes.
-### Referenciadores: Verifique e categorize os referenciadores que estão direcionando tráfego para o seu site.
-### Com uma interface interativa, o usuário pode facilmente navegar pelas análises e obter informações valiosas sobre o tráfego e a performance do servidor.
-### Fazer buscas no /etc/passwd
+### Logs do Sistema: Cada computador cliente e servidor mantém diferentes arquivos de log sobre o que está acontecendo. Os arquivos de log fornecem muitas informações sobre o que aconteceu em um sistema. Mesmo que o atacante tente limpar suas pistas, algumas ainda permanecerão.
+
+### Logs de Rede: Os logs dos pacotes de rede que atravessaram uma rede ajudariam a responder mais perguntas sobre se um ataque está ocorrendo e o que isso implica.
 
 ![image](https://github.com/user-attachments/assets/b7724dac-b403-4332-b1ec-bb79cbfc6903)
 
