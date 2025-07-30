@@ -1,9 +1,9 @@
 #!/bin/bash
+
 # Visao_Apache - Projeto de código aberto
 # Copyright (C) 2025 Luan Calazans
 # Licenciado sob a GNU AGPL v3. Veja o arquivo LICENSE para mais detalhes.
 # Contato: https://www.linkedin.com/in/luan-bsc
-
 
 GREEN='\033[1;32m'
 YELLOW='\033[1;33m'
